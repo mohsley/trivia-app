@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3D3C3C</color>
+    <color name="backGroundColor">#3D3C3C</color>
+    <color name="cardColor">#535151</color>
+    <color name="colorPrimaryDark">#3D3C3C</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="titleColor">#FF8500</color>
+    <color name="authoreColor">#F5F5F5</color>
+    <color name="trueColor">#3F609B</color>
+    <color name="falseColor">#A33636</color>
+</resources>

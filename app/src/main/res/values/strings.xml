@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">trivia</string>
+    <string name="title">Do You Know?</string>
+    <string name="author">© 2019 Mohsley Systems</string>
+    <string name="trueButton">true</string>
+    <string name="falseButton">False</string>
+    <string name="backButton">back</string>
+    <string name="nextContent">nextButton</string>
+    <string name="counter_questions">0 out of 100</string>
+    <string name="counterTextView" />
+    <string name="score">Score: 0 questions correct</string>
+</resources>
